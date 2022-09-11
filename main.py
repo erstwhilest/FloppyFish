@@ -4,7 +4,7 @@ from player import *
 
 pygame.init()
 screen = pygame.display.set_mode((1920, 720))
-pygame.display.set_caption("Floppy F")
+pygame.display.set_caption("Floppy Fish")
 clock = pygame.time.Clock()
 
 fish = Player()
